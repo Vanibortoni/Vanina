@@ -1,0 +1,164 @@
+
+h1 {
+  margin: 3.125rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.67rem;
+  color: #BFA2DB;
+  line-height: 2;
+  font-weight: lighter;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin-top: 0;
+  color: #BFA2DB;
+  font-weight: bold;
+  margin-bottom: 3.125rem;
+}
+p{
+  color:#40514E;
+    font-weight: bold;
+    margin-bottom: 3.125rem;
+}
+h3{
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  color: #7B6079;
+  margin-bottom: 3.125rem;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color: #7F7C82;
+}
+a:hover{
+  color: #7B6079;
+}
+hr{
+  color: #F3F1F5;
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 0.625rem;
+  margin: 6.25rem auto;
+}
+
+/*---------------Class--------------*/
+.middle-container{
+background-color: #F9F9F9;
+padding: 6.25rem;
+}
+.bottom-container{
+background-color: #BFA2DB;
+height: auto;
+padding: 2.5rem;
+}
+.ID {
+  background-color: #F3F1F5;
+  margin: 0;
+  position:relative;
+  padding-top: 6.25rem;
+}
+.bottomcloud{
+  position: absolute;
+  left: 18.75rem;
+  bottom: 18.75rem;
+}
+.topcloud{
+  position: absolute;
+  right: 18.75rem;
+  top:3.125rem;
+}
+.fotovani{
+  border-radius: 100%;
+  width: 7.1875rem;
+  height: 9.375rem;
+  margin: 0 auto 3.125rem auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 6.25rem auto 6.25rem auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.imgrow1{
+  width: 25%;
+  height: auto;
+  border-radius: 100%;
+  float: left;
+  margin-right: 1.875rem;
+}
+.imgrow2{
+  width: 25%;
+  height: auto;
+  border-radius: 100%;
+  float: right;
+  margin-left: 1.875rem;
+}
+.MarcaReg{
+  color: #F0D9FF;
+}
+.pinicio{
+  color:#40514E;
+  text-align: center;
+  line-height: 2;
+  width: 40%;
+  margin: 3.125rem auto;
+  font-weight: bold;
+}
+.btn {
+  background: #BFA2DB;
+  background-image: -webkit-linear-gradient(top, #BFA2DB, #7B6079);
+  background-image: -moz-linear-gradient(top, #BFA2DB, #7B6079);
+  background-image: -ms-linear-gradient(top, #BFA2DB, #7B6079);
+  background-image: -o-linear-gradient(top, #BFA2DB, #7B6079);
+  background-image: linear-gradient(to bottom, #BFA2DB, #7B6079);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #F0D9FF;
+  font-size: 0.9375rem;
+  font-weight: bold;
+  padding: 0.625rem 1.25rem 0.625rem 1.25rem;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #40514E;
+  background-image: -webkit-linear-gradient(top, #40514E, #7B6079);
+  background-image: -moz-linear-gradient(top, #40514E, #7B6079);
+  background-image: -ms-linear-gradient(top, #40514E, #7B6079);
+  background-image: -o-linear-gradient(top, #40514E, #7B6079);
+  background-image: linear-gradient(to bottom, #40514E, #7B6079);
+  text-decoration: none;
+}
+.footer-link {
+  margin: 1.875rem;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0.625rem;
+  color: #7F7C82;
+}
+
+.footer-link:hover{
+  color: #F0D9FF;
+}
+
+.MarcaReg{
+  font-size: 0.75rem;
+  margin: 3.125rem auto 0 auto;
+}
+.pcont{
+  line-height: 2;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
